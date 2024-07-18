@@ -1,0 +1,13 @@
+public class Practice{
+    public static void main(String args[]){
+       String firstName = "TharunaSree";
+       String lastName = " Golla";
+       
+       System.out.println("String Concatenation : ");
+       System.out.println(firstName.concat(lastName));
+       System.out.println(firstName +lastName);
+
+
+        
+    }
+}
